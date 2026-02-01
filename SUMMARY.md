@@ -7,3 +7,6 @@
 * [💰 4. The Economic Engine](4-Economic-Engine/README.md)
 * [❓ 5. Investor FAQ](5-Investor-FAQ/README.md)
 * [🛠️ 6. Technical Specifications](6-Technical-Specs/README.md)
+* [🏛️ 7. Legal Framework](7-Legal-Framework/README.md)
+* [🗳️ 8. Governance](8-Governance/README.md)
+* [🗺️ 9. Roadmap](9-Roadmap/README.md)
