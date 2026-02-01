@@ -29,5 +29,5 @@ To prevent money laundering and fraud, our assets are KYC-gated.
 * Utility is only restored once the new owner completes KYC on our dashboard.
 
 {% hint style="success" %}
-**Have more questions?** Join our [Discord](https://discord.gg/pixelpark) and speak directly to the Founding Council in the #investor-chat.
+**Have more questions?** Join our [Discord](https://discord.gg/NqZydpT3) and speak directly to the Founding Council.
 {% endhint %}
