@@ -1,5 +1,7 @@
 # 🏛️ 7. Legal Framework & Compliance
 
+![STZA Official Seal](../assets/STZA%20LOGO.webp)
+
 Pixel Park operates under a dual-entity structure designed to bridge international finance with Pakistani sovereign territory.
 
 ## 7.1 Corporate Entities
