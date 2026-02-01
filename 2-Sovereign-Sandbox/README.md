@@ -1,5 +1,7 @@
 # ⚖️ 2. The Sovereign Sandbox
 
+![Pixel Park Branding](../assets/Pixel%20Park%20logo.png)
+
 The Sovereign Sandbox is a collaborative regulatory environment established between **The City**, the **Special Technology Zones Authority (STZA)**, and the **Ministry of IT**. It is a sanctuary for digital innovation where the rules are written in your favor.
 
 ## 2.1 Compliance-as-a-Service (CaaS)
