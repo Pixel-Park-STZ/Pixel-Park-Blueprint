@@ -1,6 +1,6 @@
 # 🚀 Welcome to Pixel Park STZ
 
-![Pixel Park Tower](../assets/Pixel%20Park%20Render%206\(Edited\).jpg)
+![Pixel Park Tower](assets/tower.jpg)
 
 **Invest in Concrete. Operate in the Cloud.**
 
@@ -11,7 +11,7 @@ Located at the Gatwala Commercial Hub, Faisalabad, we provide Grade-A facilities
 
 | Our Brand | Regulatory Authority |
 | :--- | :--- |
-| ![Pixel Park Logo](../assets/Pixel%20Park%20logo.png) | ![STZA Logo](../assets/STZA%20LOGO.webp) |
+| ![Pixel Park Logo](assets/logo.png) | ![STZA Logo](assets/stza.webp) |
 
 ### 🛠️ Core Pillars
 * **Sovereignty:** 10-year government-backed tax holidays.
