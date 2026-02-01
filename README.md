@@ -11,7 +11,7 @@ Located at the Gatwala Commercial Hub, Faisalabad, we provide Grade-A facilities
 
 | Our Brand | Regulatory Authority |
 | :--- | :--- |
-| ![Pixel Park Logo](assets/logo.png) | ![STZA Logo](assets/stza.webp) |
+| ![Pixel Park Logo](assets/logo.png) | ![STZA Logo](assets/stza.jpg) |
 
 ### 🛠️ Core Pillars
 * **Sovereignty:** 10-year government-backed tax holidays.
