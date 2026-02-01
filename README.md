@@ -1,6 +1,6 @@
 # 🚀 Welcome to Pixel Park STZ
 
-![Pixel Park Tower](assets/tower.jpg)
+![Pixel Park Tower](assets/Tower.jpg)
 
 **Invest in Concrete. Operate in the Cloud.**
 
