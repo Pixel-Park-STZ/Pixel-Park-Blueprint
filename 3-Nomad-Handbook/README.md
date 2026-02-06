@@ -1,16 +1,20 @@
-# 🎫 3. The Nomad Handbook
+# 4. Asset Profile: The Pixel Nomad
 
-The **Pixel Nomad Pass** is your digital passport to the City. It is a utility asset designed to be "Net-Zero Cost."
+The Pixel Nomad serves as the ecosystem's Sovereign Identity Key—the definitive cryptographic credential that grants its holder root-access to Pakistan’s first on-chain Special Technology Zone.
 
-## 3.1 The Working Deposit
-The PKR 50,000 you pay is not a fee; it is a **Working Deposit**.
-* **100% Credit:** Redeem it against a Pixel Desk or $SIKKA investment.
-* **Result:** If you participate in the ecosystem, the membership is effectively free.
+## Tokenomics Snapshot
 
-## 3.2 Your Virtual HQ (Correspondence Address)
-Ownership grants you a designated STZ business address at the Gatwala Commercial Hub.
-* **Address Template:** `Suite G-10 (Nomad ID), Pixel Park STZ, Faisalabad`.
-* **Mailroom:** We receive, scan, and digitize your physical mail so you can operate from anywhere in the world.
+| Asset Class | Sovereign Identity Key |
+| --- | --- |
+| Token Standard | ERC-1155 + ERC-6551 |
+| Mint Price | USD $200 |
+| Initial $SIKKA Sale | 100% Exclusive to Nomads |
+| $SIKKA Privilege | Permanent 50% Discount (Uncapped) |
 
-## 3.3 The Seed Privilege
-Nomads get exclusive first access to the **$SIKKA Seed Round** at construction cost (33% discount to the public price).
+## 💰 The Perpetual Advantage
+
+### Genesis Exclusivity
+The public market is strictly locked out of the initial $SIKKA deployment.
+
+### Capital Efficiency
+Citizens operate with twice the power. Nomads acquire inventory at a permanent 50% discount compared to the public.

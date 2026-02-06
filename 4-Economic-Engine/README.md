@@ -1,16 +1,17 @@
-# 💰 4. The Economic Engine ($SIKKA)
+# 6. Asset Profile: $SIKKA
 
-**$SIKKA** is the ecosystem's native Enable Coin, 100% collateralized by high-yield commercial real estate.
+$SIKKA is the world's first "Enable Coin"—a digital inventory right 100% collateralized by high-yield commercial real estate in the Gatwala Commercial Hub.
 
-## 4.1 Asset-Backed Minting
-We operate on the **"Concrete Standard."**
-* **Supply Logic:** 1 $SIKKA = 1 Square Foot of sanctioned inventory.
-* **Hard Cap:** Total supply is mathematically tethered to the **Government-Approved Building Plans** of our portfolio. We cannot "print" tokens; we only tokenize concrete.
+## The 20/30/50 Allocation Model
 
-## 4.2 The 50/50 Liquidity Protocol
-To guarantee our **48-Hour Buy-Back**, we employ a strict capital preservation strategy:
-1. **50% of Raise:** Goes into physical construction (Appreciating Asset).
-2. **50% of Raise:** Held in a **Liquidity Reserve** (T-Bills/Savings) to fund exits.
+*   **20% - Global Liquidity Pool**: Seeding the $SIKKA/USDC pair for instant off-ramping.
+*   **30% - Development Fund**: Invested into physical "Concrete Growth" of the project.
+*   **50% - Sovereign Reserve**: Held in High-Yield T-Bills to fund the Buy-Back Loop.
 
-## 4.3 The Circular Economy
-$SIKKA is the transactional currency of the Park. All internal services (Legal fees, Coffee, Meeting Rooms) receive a **20% Discount** when settled in $SIKKA.
+## 🛡️ The Buy-Back Baseline
+
+### The Rule
+If you sell a token back to the Treasury, the refund is calculated based on your Original Baseline (50k for Nomads, 100k for Public).
+
+### Stability Lock
+No Treasury Buy-Backs are processed for the first 90 days.
