@@ -14,7 +14,7 @@
 ## 🎫 3. Asset Profile: Pixel Nomad
 * [3. Asset Profile: Pixel Nomad](3-Nomad-Handbook/README.md)
     * [Identity & Rebellion](3-Nomad-Handbook/vision.md)
-    * [Nomad Business Engine](3-Nomad-Handbook/nomad-business-engine.md)
+    * [Nomad Business Engine](3-Nomad-Handbook/engine.md)
     * [Value-Added Services](3-Nomad-Handbook/services.md)
 
 ## 🖥️ 4. Asset Profile: Pixel Desks
@@ -23,7 +23,7 @@
 
 ## 💰 5. Asset Profile: $SIKKA
 * [5. Asset Profile: $SIKKA](4-Economic-Engine/README.md)
-    * [$SIKKA Tokenomics](4-Economic-Engine/sikka-tokenomics.md)
+    * [$SIKKA Tokenomics](4-Economic-Engine/tokenomics.md)
     * [Liquidity & Stability](4-Economic-Engine/stability.md)
 
 ## 🛠️ 6. Technical Infrastructure
