@@ -1,12 +1,33 @@
 # Table of contents
 
-* [🚀 Welcome to the City](README.md)
-* [📖 1. The Manifesto](1-Manifesto/README.md)
-* [⚖️ 2. The Sovereign Sandbox](2-Sovereign-Sandbox/README.md)
-* [🎫 3. The Nomad Handbook](3-Nomad-Handbook/README.md)
-* [💰 4. The Economic Engine](4-Economic-Engine/README.md)
-* [❓ 5. Investor FAQ](5-Investor-FAQ/README.md)
-* [🛠️ 6. Technical Specifications](6-Technical-Specs/README.md)
-* [🏛️ 7. Legal Framework](7-Legal-Framework/README.md)
-* [🗳️ 8. Governance](8-Governance/README.md)
-* [🗺️ 9. Roadmap](9-Roadmap/README.md)
+* [🚀 Welcome](README.md)
+
+## 📖 1. The Manifesto
+* [1. The Manifesto](1-Manifesto/README.md)
+    * [Operating in the Shadows](1-Manifesto/operating-in-the-shadows.md)
+    * [The Survival Loop](1-Manifesto/the-survival-loop.md)
+
+## ⚖️ 2. The Sovereign Sandbox
+* [2. The Sovereign Sandbox](2-Sovereign-Sandbox/README.md)
+    * [The STZA Umbrella](2-Sovereign-Sandbox/the-stza-umbrella.md)
+
+## 🎫 3. Asset Profile: Pixel Nomad
+* [3. Asset Profile: Pixel Nomad](3-Nomad-Handbook/README.md)
+    * [Identity & Rebellion](3-Nomad-Handbook/identity-and-rebellion.md)
+    * [Nomad Business Engine](3-Nomad-Handbook/nomad-business-engine.md)
+    * [Value-Added Services](3-Nomad-Handbook/value-added-services.md)
+
+## 🖥️ 4. Asset Profile: Pixel Desks
+* [4. Asset Profile: Pixel Desks](5-Asset-Profile-Desks/README.md)
+    * [The Settlement ROI](5-Asset-Profile-Desks/the-settlement-roi.md)
+
+## 💰 5. Asset Profile: $SIKKA
+* [5. Asset Profile: $SIKKA](4-Economic-Engine/README.md)
+    * [$SIKKA Tokenomics](4-Economic-Engine/sikka-tokenomics.md)
+    * [Liquidity & Stability](4-Economic-Engine/liquidity-and-stability.md)
+
+## 🛠️ 6. Technical Infrastructure
+* [6. Technical Infrastructure](6-Technical-Specs/README.md)
+
+## ❓ 7. Investor FAQ
+* [7. Investor FAQ](5-Investor-FAQ/README.md)
