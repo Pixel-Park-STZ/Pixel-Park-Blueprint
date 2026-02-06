@@ -5,7 +5,7 @@
 ## 📖 1. The Manifesto
 * [1. The Manifesto](1-Manifesto/README.md)
     * [Operating in the Shadows](1-Manifesto/shadows.md)
-    * [The Survival Loop](1-Manifesto/the-survival-loop.md)
+    * [The Survival Loop](1-Manifesto/loop.md)
 
 ## ⚖️ 2. The Sovereign Sandbox
 * [2. The Sovereign Sandbox](2-Sovereign-Sandbox/README.md)
